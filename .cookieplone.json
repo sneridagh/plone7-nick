@@ -1,0 +1,11 @@
+{
+    "npm_package_name": "plone7-nick",
+    "description": "A new add-on for Seven",
+    "frontend_addon_name": "plone7-nick",
+    "title": "plone7-nick",
+    "email": "sneridagh@gmail.com",
+    "github_organization": "collective",
+    "author": "Victor Fernandez de Alba",
+    "project_slug": "plone7-nick",
+    "__template__": "plone7_nick_bff"
+}
