@@ -59,7 +59,9 @@
       "cypress",
       "esbuild",
       "lightningcss-cli",
-      "unrs-resolver"
+      "unrs-resolver",
+      "bcrypt",
+      "sharp"
     ]
   }
 }
