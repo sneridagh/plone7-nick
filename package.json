@@ -43,7 +43,8 @@
     "seven": "workspace:*",
     "@robgietema/nick": "workspace:*",
     "plone7-nick": "workspace:*",
-    "@vercel/react-router": "1.2.6"
+    "@vercel/react-router": "1.2.6",
+    "@remix-run/dev": "2.17.4"
   },
   "devDependencies": {
     "mrs-developer": "^2.2.0"

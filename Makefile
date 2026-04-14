@@ -38,8 +38,8 @@ install: ## Installs the add-on in a development environment
 	@echo "$(GREEN)Install$(RESET)"
 	pnpm dlx mrs-developer missdev --no-config --fetch-https
 	pnpm i
-	make build-deps
 	cp react-router.config.ts core/apps/seven/react-router.config.ts
+	make build-deps
 
 .PHONY: start
 start: ## Starts Volto, allowing reloading of the add-on during development
