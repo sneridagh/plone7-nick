@@ -42,7 +42,8 @@
     "@plone/registry": "workspace:*",
     "seven": "workspace:*",
     "@robgietema/nick": "workspace:*",
-    "plone7-nick": "workspace:*"
+    "plone7-nick": "workspace:*",
+    "@vercel/react-router": "1.2.6"
   },
   "devDependencies": {
     "mrs-developer": "^2.2.0"

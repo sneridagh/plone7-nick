@@ -39,6 +39,7 @@ install: ## Installs the add-on in a development environment
 	pnpm dlx mrs-developer missdev --no-config --fetch-https
 	pnpm i
 	make build-deps
+	cp react-router.config.ts core/apps/seven/react-router.config.ts
 
 .PHONY: start
 start: ## Starts Volto, allowing reloading of the add-on during development
